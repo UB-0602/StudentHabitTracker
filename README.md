@@ -1,10 +1,5 @@
 # Student Habit Tracker System
 
-A simple Java console-based application that helps students add, manage, and track their daily habits.  
-This project was created as part of the Build Your Own Project requirement.
-
----
-
 ## 📌 Features
 
 ### ✔ Habit Management
@@ -54,9 +49,3 @@ StudentHabitTracker/ │ ├── Habit.java ├── HabitService.java ├─
 - Add reminders and notifications
 - Weekly/monthly visual charts
 
----
-
-## 🧑‍💻 Author
-Your Name  
-Your College  
-Your Register Number
